@@ -13,8 +13,11 @@ namespace Day5_Assignment
             //MinimumInteger minimumInteger = new MinimumInteger();
             //minimumInteger.IntegerMethod();
 
-            MinimumFloat minimumFloat = new MinimumFloat();
-            minimumFloat.FloatMethod();
+            //MinimumFloat minimumFloat = new MinimumFloat();
+            //minimumFloat.FloatMethod();
+
+            MinimumString minimumString = new MinimumString();
+            minimumString.StringMethod();
             Console.ReadLine();
         }
     }
