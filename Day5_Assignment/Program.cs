@@ -10,8 +10,11 @@ namespace Day5_Assignment
     {
         static void Main(string[] args)
         {
-            MinimumInteger minimumInteger = new MinimumInteger();
-            minimumInteger.IntegerMethod();
+            //MinimumInteger minimumInteger = new MinimumInteger();
+            //minimumInteger.IntegerMethod();
+
+            MinimumFloat minimumFloat = new MinimumFloat();
+            minimumFloat.FloatMethod();
             Console.ReadLine();
         }
     }
